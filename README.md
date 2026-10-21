@@ -82,8 +82,9 @@ Select the environment containing the dependencies and run the cells in order. S
 ### Skin Lesions
 
 <p>
-  <img src="docs/ISIC_0024643.jpg" width="180" alt="Skin-lesion sample">
-  <img src="docs/ISIC_0024663.jpg" width="180" alt="Additional skin-lesion sample">
+  <img src="docs/ISIC_0024643.jpg" width="180" alt="Skin-lesion sample 1">
+  <img src="docs/ISIC_0024646.jpg" width="180" alt="Skin-lesion sample 2">
+  <img src="docs/ISIC_0024663.jpg" width="180" alt="Skin-lesion sample 3">
 </p>
 
 ### Facial Images
